@@ -1,6 +1,6 @@
 <!-- Repo banner 😅 -->
 
-![banner](./downloads/CatCode.jfif)
+![banner](./Downloads/safar.jpg)
 
 <!-- Typewritter-1 -->
 
