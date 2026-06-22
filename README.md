@@ -29,8 +29,7 @@ _Frameworks & libraries_
 
 _Tools & platforms_
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&labelColor=181717) ![Vscode](https://img.shields.io/badge/Vscode-2F80ED) ![Webstorm](https://img.shields.io/badge/Webstorm-000000?logo=webstorm) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&labelColor=181717) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&labelColor=181717) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&labelColor=181717) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&labelColor=181717) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&labelColor=181717) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&labelColor=181717) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&labelColor=181717) ![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?logo=gnubash&labelColor=181717) ![Vmware](https://img.shields.io/badge/Vmware-607078?logo=vmware&labelColor=181717) ![VirtualBox](https://img.shields.io/badge/Virtual_box-2F61B4?logo=virtualbox) ![Pycharm](https://img.shields.io/badge/Pycharm-000000?logo=pycharm) ![Bun](https://img.shields.io/badge/Bun-000000?logo=bun) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql) ![Nodejs](https://img.shields.io/badge/Nodejs-5FA04E?logo=nodedotjs&labelColor=181717)
-
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&labelColor=181717) ![Vscode](https://img.shields.io/badge/Vscode-2F80ED)
 <br />
 
 <!-- Find me around the web -->
@@ -39,7 +38,7 @@ _Tools & platforms_
 
 <br />
 
-[![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/specialbrocoli/) [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&labelColor=181717)](https://www.credly.com/users/webmaster) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat)](https://www.linkedin.com/in/pride-moyana-5611143ab/) 
+[![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/moyana2307-art/) [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&labelColor=181717)](https://www.credly.com/users/webmaster) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat)](https://www.linkedin.com/in/pride-moyana-5611143ab/) 
 
 <!-- ********===Gh profile summary********=== -->
 
