@@ -1,6 +1,6 @@
 <!-- Repo banner 😅 -->
 
-![banner](./Downloads/safar.jpg)
+![banner](./Assets/safar.jpg)
 
 <!-- Typewritter-1 -->
 
